@@ -34,8 +34,8 @@ print("Square root of the number:",result)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
- ![Alt text](<sqrt of two num.png>)
+ ![image](https://github.com/K-PRAVEEN-2005/Square-root-of-a-number/assets/145742724/e35e53dc-98d2-4cbb-82e9-caa1649e85f5)
+
 
 
 ## Result:
